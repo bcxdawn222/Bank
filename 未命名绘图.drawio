@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14" pages="8">
   <diagram name="第 1 页" id="DrFP2PgMEQAhw0Amren8">
     <mxGraphModel dx="827" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,6 +644,25 @@
         </mxCell>
         <mxCell id="pG4VpJJRhsMQ4typKfkQ-63" value="电影评分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-262" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J-1fShfo6aFHl4Y-g285" name="第 8 页">
+    <mxGraphModel dx="1149" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P8YmG2FhAvAFQ_kHeSkp-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="_pIPMNo8CQm8vCQxrLDj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="-42.33330959743921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pIPMNo8CQm8vCQxrLDj-1" value="&lt;font&gt;协同过滤电影推荐系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-117" width="151" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YmG2FhAvAFQ_kHeSkp-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-27" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
