@@ -654,16 +654,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_pIPMNo8CQm8vCQxrLDj-1" value="&lt;font&gt;协同过滤电影推荐系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="325" y="-117" width="151" height="40" as="geometry" />
+          <mxGeometry x="308.91" y="-117" width="151" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P8YmG2FhAvAFQ_kHeSkp-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="164.19" y="-77" width="472.63" height="51" as="geometry" />
+          <mxGeometry x="132" y="-77" width="504.82" height="51" as="geometry" />
         </mxCell>
         <mxCell id="P8YmG2FhAvAFQ_kHeSkp-4" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="577" y="-25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P8YmG2FhAvAFQ_kHeSkp-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="94.5" y="-29" width="120" height="40" as="geometry" />
+          <mxGeometry x="74" y="-29" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P8YmG2FhAvAFQ_kHeSkp-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YmG2FhAvAFQ_kHeSkp-8" target="P8YmG2FhAvAFQ_kHeSkp-28">
           <mxGeometry relative="1" as="geometry">
