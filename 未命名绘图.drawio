@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.8" pages="12">
   <diagram name="第 1 页" id="DrFP2PgMEQAhw0Amren8">
     <mxGraphModel dx="827" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1023,6 +1023,80 @@
         </mxCell>
         <mxCell id="xBAfxHzeZGG3KgaSrI0C-10" value="电影编号&lt;font face=&quot;Times New Roman&quot;&gt;ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-107" y="295" width="126" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FYR2NGZwUNjVUb1BBEXw" name="第 12 页">
+    <mxGraphModel dx="1034" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="725QdJPBZ-seoFGmKMca-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;紫金学院管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="488.0000000000001" y="146" width="151" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-4" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;endArrow=none;" edge="1" parent="1" source="725QdJPBZ-seoFGmKMca-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="315" />
+              <mxPoint x="340" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="725QdJPBZ-seoFGmKMca-7" target="725QdJPBZ-seoFGmKMca-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="383" y="290" width="174" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-8" value="注&lt;div&gt;册&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-9" value="教&lt;div&gt;务&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="340" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-10" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="719" y="341" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-12" value="人&lt;div&gt;事&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="368" y="340" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-32" value="部&lt;div&gt;门&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="328" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-33" value="员&lt;div&gt;工&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="411" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="436" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-43" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="516.75" y="436" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-44" value="班&lt;div&gt;级&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="498" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-45" value="学&lt;div&gt;生&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="581" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-46" value="账&lt;div&gt;户&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-47" value="密&lt;div&gt;码&lt;/div&gt;&lt;div&gt;重&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="486" width="29" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="725QdJPBZ-seoFGmKMca-48" target="725QdJPBZ-seoFGmKMca-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="692.25" y="437" width="83.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="725QdJPBZ-seoFGmKMca-49" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;退&lt;/div&gt;&lt;div&gt;出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="826" y="487" width="29" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
